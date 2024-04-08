@@ -31,7 +31,7 @@ Con ROS y Python, se puede desarrollar una amplia variedad de aplicaciones robó
 - Crear un paquete llamado Practicas_lab de ros con dependencias rospy, roscpp y std_msgs
 - Colocar los archivos listener.py y talker.py
 - Compilar el paquete.
-- Ejecutar el talkerEjecutar el listenerConcluir sobre su funcionamiento.
+- Ejecutar el talker y listener.
 
 **Medium**  
 - Crear un control por teclado para turtlesim
@@ -45,3 +45,5 @@ Con ROS y Python, se puede desarrollar una amplia variedad de aplicaciones robó
 - Reportar en markdown.
 
 ## Codigos y soluciones
+
+Para el primer problema se pueden encontrar los codigos listener.py y talker.py en la carpeta practica_lab2 >> src, a continuacion mostraremos una imagen de la ejecucion y funcionamiento de ambos programas en conjunto: 

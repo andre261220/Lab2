@@ -47,3 +47,6 @@ Con ROS y Python, se puede desarrollar una amplia variedad de aplicaciones robó
 ## Codigos y soluciones
 
 Para el primer problema se pueden encontrar los codigos listener.py y talker.py en la carpeta practica_lab2 >> src, a continuacion mostraremos una imagen de la ejecucion y funcionamiento de ambos programas en conjunto: 
+![BasicRos](https://github.com/andre261220/Lab2/assets/132303647/86ca3d26-3359-41ee-86b1-4dbf8e5c0ec2)
+
+
